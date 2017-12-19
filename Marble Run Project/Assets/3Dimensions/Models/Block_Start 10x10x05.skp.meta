@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6dab67df0c1943045a072ce3afa75f93
-timeCreated: 1513526391
+guid: 05b0c937731f29945ac7d8e35edfa558
+timeCreated: 1513526596
 licenseType: Pro
 SketchUpImporter:
   generateBackFace: 0
@@ -8,16 +8,16 @@ SketchUpImporter:
   selectedNodes: 0000000001000000
   assetHash:
     serializedVersion: 2
-    Hash: 8a6026c654e74727566d9ccc7372e82d
+    Hash: b0131976d729ad360c5fb73b174be928
   longitude: -105.242139
   latitude: 40.018309
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: -1.9241709, y: 2.8212469, z: -3.8488417}
-      lookAt: {x: 8.497463, y: -7.918146, z: 15.599444}
-      up: {x: 0.20670746, y: 0.89915067, z: 0.3857462}
+      position: {x: -2.0299735, y: 2.1796715, z: -2.7671058}
+      lookAt: {x: -1.6111768, y: 1.8261068, z: -2.1856813}
+      up: {x: 0.2586192, y: 0.8967729, z: 0.35904664}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -29,7 +29,8 @@ SketchUpImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Mesh Block_Block 01x01
+    4300000: Mesh Block_Start 01x01
+    4300002: Mesh Block_Start 10x10x05
     6400000: //RootNode
   externalObjects:
   - first:

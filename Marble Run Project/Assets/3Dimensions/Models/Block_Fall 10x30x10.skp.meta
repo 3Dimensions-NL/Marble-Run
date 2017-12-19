@@ -8,7 +8,7 @@ SketchUpImporter:
   selectedNodes: 0000000001000000
   assetHash:
     serializedVersion: 2
-    Hash: 67ae42fd323f05fcb8b3dda7f16cb0bf
+    Hash: 5a2bd5d8545424508fa871993aab3ad5
   longitude: -105.242139
   latitude: 40.018309
   northCorrection: -0
@@ -30,6 +30,7 @@ SketchUpImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Mesh Block_Fall 01x03
+    4300002: Mesh Block_Fall 10x30x10
     6400000: //RootNode
   externalObjects:
   - first:
